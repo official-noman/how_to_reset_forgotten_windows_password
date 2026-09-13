@@ -8,7 +8,6 @@
   
   <br><br>
   <b>👨‍💻 Created & Maintained by <a href="https://github.com/your-github-username">Abdullah Al Noman</a></b>
-  <br><i>System Support Engineer</i>
 </div>
 
 ---
